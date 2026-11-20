@@ -1,6 +1,6 @@
 cask "anser" do
-  version "6.2.7"
-  sha256 "94b57e4e87ff1020f06a8e620a44c37d9b680fcadd0b10c091787486ff9b5678"
+  version "6.2.8"
+  sha256 "25b6ae1be66d44454e48dec46d87ced947bb97a9d5e9fdfadcba3788e68ce4a2"
 
   url "https://github.com/nevin/anser/releases/download/v#{version}/Anser-#{version}.dmg"
   name "Anser"
